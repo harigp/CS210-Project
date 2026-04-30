@@ -20,7 +20,7 @@ We use **linear regression** to predict student grades based on lifestyle and ac
 
 ---
 
-## ⚙️ Features / Functionality
+##  Features / Functionality
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature engineering
