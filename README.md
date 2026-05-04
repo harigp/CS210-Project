@@ -26,6 +26,7 @@ We use **linear regression** to predict student grades based on lifestyle and ac
 - Feature engineering
 - Multiple Linear Regression model
 - Simple Linear Regression (sleep vs grade)
+- Ablation Study (Without Prior GPA)
 - Model evaluation (MSE, R²)
 - Residual analysis
 - Predictions on new student data
