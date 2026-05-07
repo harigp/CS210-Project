@@ -6,7 +6,7 @@ We used linear regression to predict student grades based on lifestyle and acade
 
 
 
-Dataset
+Dataset:
 - File: enhanced_student_habits_performance_dataset.csv
 - Contains features such as:
   - Hours slept
