@@ -51,5 +51,6 @@ Results:
 How to Run the Project:
 
 ### 1. Clone repo
+bash
 git clone https://github.com/harigp/CS210-Project
 cd CS210-Project
