@@ -35,8 +35,8 @@ Dataset:
 
 Model:
 We used:
-- **Multiple Linear Regression** for full prediction
-- **Simple Linear Regression** for visualization (sleep vs grade)
+- Multiple Linear Regression for full prediction
+- Simple Linear Regression for visualization (sleep vs grade)
 
 
 
