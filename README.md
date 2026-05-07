@@ -4,7 +4,7 @@
 This project examiens how student habits (sleep, study time, stress, etc.) affect academic performance.  
 We use **linear regression** to predict student grades based on lifestyle and academic features.
 
----
+
 
 ##  Dataset
 - File: `enhanced_student_habits_performance_dataset.csv`
@@ -18,7 +18,7 @@ We use **linear regression** to predict student grades based on lifestyle and ac
   - Time management score
   - Final exam grade
 
----
+
 
 ##  Features / Functionality
 - Data cleaning and preprocessing
@@ -31,14 +31,14 @@ We use **linear regression** to predict student grades based on lifestyle and ac
 - Residual analysis
 - Predictions on new student data
 
----
+
 
 ##  Model
 We used:
 - **Multiple Linear Regression** for full prediction
 - **Simple Linear Regression** for visualization (sleep vs grade)
 
----
+
 
 ##  Results
 - Identified key factors affecting student performance
@@ -46,7 +46,7 @@ We used:
 - Negative impact: stress level
 - Sleep conveyed a moderate positive correlation
 
----
+
 
 ##  How to Run the Project
 
