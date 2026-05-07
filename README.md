@@ -1,8 +1,8 @@
 # Student Performance Prediction Linear Regression
 
 ##  Project Overview
-This project examiens how student habits (sleep, study time, stress, etc.) affect academic performance.  
-We use linear regression to predict student grades based on lifestyle and academic features.
+This project examines how student habits (sleep, study time, stress, etc.) affect academic performance.  
+We used linear regression to predict student grades based on lifestyle and academic features.
 
 
 
